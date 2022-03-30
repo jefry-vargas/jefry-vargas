@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jefry Daniel Vargas Sierra</h1>
 <h3 align="center">Soy de Colombia</h3>
 
-- 🔭 Actualmente estudio en [Universidad Ean](https ://universidadean.edu.co/)
+- 🔭 Actualmente estudio en [Universidad Ean] <h4><a href="https ://universidadean.edu.co"> universidad EAN </h4></li>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
