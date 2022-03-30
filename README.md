@@ -1,47 +1,12 @@
-### Hi there 👋
-### Maximous Black
+<h1 align="center">Hola 👋, soy Jefry Daniel Vargas Sierra</h1>
+<h3 align="center">Soy de Colombia</h3>
 
-> /'mak.si.mus blak/
+- 🔭 Actualmente estudio en [Universidad Ean](https ://universidadean.edu.co/)
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://instagram.com/jefry_vargas_" objetivo ="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt ="jefry_vargas_" height="30" width="40" /></a>
+</p>
 
-### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
-### 🌱 My latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
-
-### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
-
-### 🔭 Latest releases I've contributed to
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) [`{{ .LastRelease.TagName }}`]({{ .LastRelease.URL }}) - {{.Description}}
-{{- end }}
-
-### ⭐ Recent Stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
-### 📰 Recent Blog Posts
-{{ range rss "https://maximousblk.me/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
-
-### 📫 How to reach me:
-
-- Website: [maximousblk.me](https://maximousblk.me/)
-- Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
-- Twitter: [@maximousblk](https://twitter.com/maximousblk)
-
-You can also ask me a question on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
-
-My PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
+<h3 align="left">Idiomas y Herramientas:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho="40" altura="40"/> </a> </p>
